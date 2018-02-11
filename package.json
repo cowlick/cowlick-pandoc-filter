@@ -29,6 +29,10 @@
   "keywords": [],
   "author": "pocketberserker",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowlick/cowlick-pandoc-filter.git"
+  },
   "devDependencies": {
     "@akashic/akashic-engine": "2.0.3",
     "@types/acorn": "4.0.3",
