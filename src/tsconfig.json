@@ -12,6 +12,7 @@
     "outDir": "../lib"
   },
   "files": [
-    "../node_modules/@akashic/akashic-engine/lib/main.d.ts"
+    "../node_modules/@akashic/akashic-engine/lib/main.d.ts",
+    "./index.ts"
   ]
 }
